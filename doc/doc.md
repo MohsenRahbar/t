@@ -50,7 +50,7 @@ such as Test Case ,Test Scenario , Test plan and Report
 | 5 |  | behavior when The user The phone has entered less than eleven digits + did not entered the security code | Failed | Failed |
 | 6 |  | behavior when The user, phone does not start with 09 + entered the correct security code | Failed | Failed |
 | 7 |  | behavior when The user entered Phone number less than eleven digits + entered the correct security code | Failed | Failed |
-| 8 |  | ior when The user entered Phone number less than eleven digits + did not entered the correct security code |  |  |
+| 8 |  | behavior when The user entered Phone number less than eleven digits + did not entered the correct security code |  |  |
 | 9 |  | behavior when The user entered the phone number + entered the wrong security code | Failed | Failed |
 | 10 |  | behavior when The user did not entered the phone number + entered the wrong security code | Failed | Failed |
 | 11 |  | behavior when The user entered the correct dynamic code | Pass | Pass |
