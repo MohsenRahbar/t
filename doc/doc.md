@@ -17,9 +17,6 @@ such as Test Case ,Test Scenario , Test plan and Report
       <a href="#Information">Information</a>
       <ul>
         <li>
-        <a href="#user-page:">user page</a>
-        </li>
-        <li>
         <a href="#goal">goal</a>
         </li>
         </ul>
